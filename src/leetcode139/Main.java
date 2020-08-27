@@ -1,4 +1,4 @@
-package wordBreak;
+package leetcode139;
 
 import java.util.ArrayList;
 import java.util.List;
